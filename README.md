@@ -1,4 +1,4 @@
 logo
 ====
 
-[<img src="rossconf.jpg">]
+<img src="rossconf.jpg">
